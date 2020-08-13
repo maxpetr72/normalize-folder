@@ -1,0 +1,10 @@
+{
+    "name": "Maxim Petruchenko <maxpetr@list.ru>",
+    
+    "for_delete" : [
+        ".DS_Store",
+        "Thumbs.db",
+        ".metadata/",
+        ".view/"
+        ]
+}
